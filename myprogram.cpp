@@ -3,9 +3,9 @@ using namespace std;
 
 int main() {
   int x;
-  cout << "Hello World! /n"
-  cout << "Please type a number: ";
-  cin >> x;
-  cout >> "You typed " << x;
+  cout << "Hello, World! ";
+  cout << "Type a number: "; // Type a number and press enter
+  cin >> x; // Get user input from the keyboard
+  cout << "You typed " << x;
   return 0;
 }
