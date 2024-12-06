@@ -10,3 +10,4 @@ int main() {
 }
 
 ```
+edit: it will get hard when i make games ☠️
