@@ -10,4 +10,5 @@ int main() {
 }
 
 ```
-edit: it will get hard when i make games ☠️
+edit: it will get hard when i make games, 
+not small application like a calculator that can only do addition and subtraction☠️
